@@ -1,3 +1,4 @@
+![Neurowell AI Banner](https://github.com/drbroderickcrawford/NEUROWELLAI/blob/main/NeuroWellAI_Profile_With_Description.jpeg?raw=true)
 # Neurowell AI
 
 Welcome to Neurowell AI — empowering brain health and cognitive resilience through advanced artificial intelligence, neuroscience, and deeply human-centered care.
