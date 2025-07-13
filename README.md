@@ -32,7 +32,7 @@ Neurowell AI is on a mission to transform the way we approach cognitive health a
 ## 🚀 Connect With Us
 
 - 🌐 [Website](https://neurowellai.com)
-- 💼 [LinkedIn](https://www.linkedin.com/company/107795534/)
+- 💼 https://www.linkedin.com/in/broderickcrawford/
 - 📸 [Instagram](https://www.instagram.com/neurowell.ai/)
 
 ---
