@@ -24,10 +24,18 @@ Neurowell AI is on a mission to transform the way we approach cognitive health a
 
 ## 🔥 Our Core Values
 
-- **Semper Fidelis** — unwavering loyalty to patient outcomes and family support
-- **Innovation with Purpose** — technology serving humanity, not the other way around
-- **Resilience Through Data** — transforming insights into hope and tangible recovery
-- **Integrity First** — military-grade ethical and operational standards
+---
+
+### 🧭 Core Values
+
+- **Semper Fidelis** — unwavering loyalty to patient outcomes and family support  
+- **Innovation with Purpose** — technology serving humanity, not the other way around  
+- **Resilience Through Data** — transforming insights into hope and tangible recovery  
+- **Integrity First** — military-grade ethical and operational standards  
+- **Semper Progredi** — *Always Forward*
+
+---
+
 
 ## 🚀 Connect With Us
 
