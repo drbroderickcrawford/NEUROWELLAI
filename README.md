@@ -45,6 +45,17 @@ Neurowell AI is on a mission to transform the way we approach cognitive health a
 
 ---
 
+## 📄 White Papers & Publications
+
+- **[The Inspiring Intersection of BC NeuroWellai, Creutzfeldt‑Jakob Disease (CJD) Research, Health Psychology, AI, and Quantum Computing](https://zenodo.org/records/15874309)** (July 2025)  
+  A cross-disciplinary exploration of AI, health psychology, and quantum computing in pediatric brain disease research. Focused on bridging gaps in CJD awareness, data science, and home-based innovation.
+
+- **[Quantum Data Re‑Uploading Classifiers: Empirical Performance and Comparison with State‑of‑the‑Art Quantum Machine Learning](https://zenodo.org/records/15765684)** (June 2025)  
+  Benchmarking emerging QML models for predictive cognitive health research. Discusses potential applications for early detection of neurodegenerative disease.
+
+---
+
+
 > *Founded by Dr. Broderick Crawford, PhD Health Psychology, Marine Corps Veteran — dedicated to serving those facing their most challenging journeys with compassion, discipline, and unwavering focus.*
 
 ---
