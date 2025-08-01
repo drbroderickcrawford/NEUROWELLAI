@@ -14,6 +14,24 @@ Neurowell AI is on a mission to transform the way we approach cognitive health a
 - **Remote monitoring dashboards** for clinicians and caregivers
 - **Wearable technology integration** for continuous tracking
 - **Future-ready quantum computing roadmap** for next-level prediction and intervention
+- ---
+
+## 🧩 Surgical Applications: Advancing Pediatric Neurosurgery
+
+As part of NeuroWell AI’s mission, we’re expanding into pediatric neurosurgical innovation. This layer supports surgical teams and families before, during, and after tumor-related brain procedures using AI + Quantum insights.
+
+### 🚨 Key Goals:
+- **AI-Driven Tumor Classification** — assist in pre-op planning with accurate model predictions
+- **Quantum-Enhanced Functional Mapping** — preserve critical regions via hybrid modeling
+- **Surgical Simulation + Overlay (Coming)** — visual support using Vision Pro/AR
+- **Post-Surgical Cognitive Tracking** — integrated with recovery modules already built
+
+This initiative builds on our existing brain recovery pipeline and uses the same modular architecture for easy integration.
+
+> *“Our recovery models now inform how we prepare for and recover from surgery—with the same mission: preserve childhood cognition.”*
+
+📂 Related module coming soon: `/surgical`
+
 
 ## 🧬 Who We Serve
 
@@ -52,6 +70,16 @@ Neurowell AI is on a mission to transform the way we approach cognitive health a
 
 - **[Quantum Data Re‑Uploading Classifiers: Empirical Performance and Comparison with State‑of‑the‑Art Quantum Machine Learning](https://zenodo.org/records/15765684)** (June 2025)  
   Benchmarking emerging QML models for predictive cognitive health research. Discusses potential applications for early detection of neurodegenerative disease.
+
+---
+
+## 📄 Featured Paper
+
+**NeuroWell AI: A Hybrid Quantum-Classical Diagnostic Pipeline for Early Cognitive Decline Detection in Pediatric Brain Tumor Survivors**
+
+[🔗 View on Zenodo](https://zenodo.org/record/16647807)
+
+This paper outlines the theoretical framework and experimental design of NeuroWell AI’s diagnostic pipeline, combining quantum circuits and classical convolutional models for early cognitive tracking in pediatric brain tumor survivors.
 
 ---
 
