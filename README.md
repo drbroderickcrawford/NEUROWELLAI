@@ -39,6 +39,22 @@ This initiative builds on our existing brain recovery pipeline and uses the same
 
 📂 Related module coming soon: `/surgical`
 
+---
+
+## 🧪 Notebooks
+
+### 📊 Notebook: Grad‑CAM Simulation for Pediatric Neurosurgical AI
+
+This notebook demonstrates the use of a basic CNN model to generate Grad‑CAM overlays for synthetic MRI images. While the data is simulated, this prototype is designed to:
+
+- Test model visualization workflows for pediatric neurosurgical contexts (e.g., astrocytoma, CJD).
+- Serve as a template for integrating Grad‑CAM into NeuroWell AI’s surgical planning modules.
+- Be extended to real-world DICOM data as datasets are acquired.
+
+📁 Path: `notebooks/batch_gradcam_pipeline_colab.ipynb`  
+🔗 View on GitHub: [Grad‑CAM Simulation Notebook](notebooks/batch_gradcam_pipeline_colab.ipynb)
+
+
 ## 🧬 Who We Serve
 
 - Pediatric brain tumor survivors and their families
