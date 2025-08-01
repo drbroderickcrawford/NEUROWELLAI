@@ -29,6 +29,13 @@ As part of NeuroWell AI’s mission, we’re expanding into pediatric neurosurgi
 This initiative builds on our existing brain recovery pipeline and uses the same modular architecture for easy integration.
 
 > *“Our recovery models now inform how we prepare for and recover from surgery—with the same mission: preserve childhood cognition.”*
+---
+
+## 🧪 Notebooks
+
+- [Batch Grad-CAM Simulation Notebook](notebooks/batch_gradcam_pipeline_colab.ipynb)  
+  Simulates Grad-CAM overlays using a dummy CNN on synthetic MRI images. Lays groundwork for pediatric neurosurgical AI tools.
+
 
 📂 Related module coming soon: `/surgical`
 
