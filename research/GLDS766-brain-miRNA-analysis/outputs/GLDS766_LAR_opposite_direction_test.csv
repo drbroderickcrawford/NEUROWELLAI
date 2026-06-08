@@ -1,0 +1,2 @@
+n_targets,median_log2FC,mean_log2FC,proportion_down,background_median,wilcoxon_down_p,random_gene_mean_down_p
+92,1.94655939650645,1.31485475801592,0.217391304347826,1.71045484662591,0.983150757754291,0.924107589241076
